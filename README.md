@@ -30,6 +30,7 @@ Feature branch: at the start master and feature branches are same, as you make c
 git branch: list branch
 git checkout -b git-demo-feature-1: creates new branch
 git checkout master : switch to master
+git merge : merge branch and master
 
 
 
