@@ -31,6 +31,7 @@ git branch: list branch
 git checkout -b git-demo-feature-1: creates new branch
 git checkout master : switch to master
 git merge : merge branch and master
+git diff : Shows which changes have been made and compares lines of code
 
 
 
